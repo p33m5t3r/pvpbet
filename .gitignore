@@ -1,4 +1,3 @@
-.env
 .env.prod
 .idea/
 __pycache__/

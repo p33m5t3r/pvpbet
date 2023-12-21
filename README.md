@@ -26,6 +26,8 @@ Disclaimer: I wrote this a long time ago, instructions are probably out of date.
 
 This was built naively on python telegram bot, and is performant enough for a reasonably large group chat of friends, but definitely not intented to scale beyond that.
 
+You'll want to grep for `TODO_ADD_` to find placeholder api keys in env files and configs and so forth.
+
 
 #### Backend:
 run mongo with
